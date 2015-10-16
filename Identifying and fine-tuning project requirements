@@ -4,7 +4,7 @@ Whenever you are planning on creating a website or software deployment for your 
 3.	Prioritizing features: The most important features and requirements of your application/software. For example ( if mobility is a key characteristic, choose mobile based platform)
 4.	The return on investment: Is the project worth the money and time you are putting in?
 
-Assumptions/Testing: it is always a good idea to identify the most important assumptions for our plan's success and to test them in order to predict and accommodate the expected outcomes. They also help to formulate the hedging actions and construct ‘what-if scenarios’ to deal with uncertainties.  For testing, sometimes a good market research is enough and at other times, a working prototype and implementation might be required. 
+Assumption and testing based planning is important to formulate the hedging actions and construct ‘what-if scenarios’ to deal with uncertainties.  So, It is important to know how you would test them and see if they were successful enough to proceed with the implementation.
 Once the platform is identified, and the software team has been deployed for you awesome idea, fine tuning the project requirements effectively is the key to getting a good head start. While developing and propagating effective project requirements, following factors must be taken into account:
 1.	Minimum Viable Product: Never aim for having the perfect app/software/website right from the start. Instead developing the most basic model and iterating it along time is the fundamental to a successful project. 
 2.	Role-Feature-Reason: Identifying reasons for each feature in simple terms with respect to the benefit it would be bringing to the associated user.
