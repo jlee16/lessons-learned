@@ -1,0 +1,13 @@
+My interest for this course was driven about a curiosity about best-practices for coordinating development and business teams. The main take-away for me is to be realistic in your expectations from developers. Not to accept the status-quo, but rather to tackle these issues head-on.
+
+Five specific examples that were mentioned in class or the book come to mind:
+
+1. Quality is a steep function of time. Realize that asking for higher quality than needed comes at a significant cost and will delay the launch. Don't push for quality simply because it can be developed but ask yourself what quality is really needed.
+
+2. Novelty is risky. The most break-through features carry the most risk. Developing them may require more time than expected, or may in the worst case be impossible. If the success of the project depends on these features, definitely start with them
+
+3. You cant define exactly what you want. Instead of specifying all the details, explain the context and what you want to achieve. Think about all the different users and use use-cases to highlight which functionality is needed. Ask prototypes and weekly deliverables to give quick feedback.
+
+4. User preferences are an unknown. When you start development, you may have a hypothesis about user preferences but you may be wrong. Additionally, preferences may change over time. Therefore, think about the earliest possible version you could launch and get this done first to get user feedback. Deliver additional features incrementally.
+
+5. Bugs will always exist. Don't assume that the version you launch will be completely bug-free. Rather assume some fixes will be needed and prepare for that.
