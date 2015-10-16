@@ -3,9 +3,10 @@ collaboration, it is important to understand how to not just guide a pragmatic p
 fellow team member in order to establish efficient, pragmatic team as a whole.
 
 (1) Ubiquitous automation:
-Having an integrated development environment where as many administrative items are automated is crucial in establishing the
-baseline for the efficiency.  Automation can range from documentation, testing, and design, where results are automatically
-generated and sent to relevant parties for quick facilitation and progress.
+Having an integrated development environment where as many administrative items are automated as possible is crucial in
+establishing the baseline for efficiency.  Automation can range from documentation, testing, and design, where results are
+automatically generated and sent to relevnt parties for quick facilitation and progress.  Various tools are available in
+achieving automation and/or easier collaboration, including GitHub.
 
 (2) Choosing moments and styles:
 Each person will be dealing with different professional and personal matters at any given point in time.  It is therefore
